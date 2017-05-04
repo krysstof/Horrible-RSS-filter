@@ -28,6 +28,7 @@ http://localhost:8008/stop >> will kill the server
 ## INTALL
 * save as a .PS1 file where ever you want on your computer
 * right clic on the file and "Run with powershell", a windows fill pop then disappear
+* you can change or comment the line hidding the windows if you want a control on whether the server is running ( line #53 starting with "[UserWindows]::")
 
 #dealwithit #nologs #yolocoding
 no way to see what is does or why it does it wrong# open powershell, type "get-process powershell" if you get more than 1 line you probably have a problem, kill all powershell in doubt 
