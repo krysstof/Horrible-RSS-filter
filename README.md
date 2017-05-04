@@ -28,7 +28,16 @@ http://localhost:8008/stop >> will kill the server
 ## INTALL
 * save as a .PS1 file where ever you want on your computer
 * right clic on the file and "Run with powershell", a windows fill pop then disappear
+* it may ask for admin privilege if UAC is enabled, the price of running a webserver.
 * you can change or comment the line hidding the windows if you want a control on whether the server is running ( line #53 starting with "[UserWindows]::")
 
 #dealwithit #nologs #yolocoding
 no way to see what is does or why it does it wrong# open powershell, type "get-process powershell" if you get more than 1 line you probably have a problem, kill all powershell in doubt 
+
+## DISCLAIMER
+ I'm not affiliated with HS in anyway, this was a random request on disqus and it was to see if it was doable
+ spamming this little webserver will put load on your own computer, and each call will do a call to HS RSS feed, 
+ 
+ leave a message here or on disqus and I'll remove this.
+ 
+ 
